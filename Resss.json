@@ -1,0 +1,1023 @@
+[
+{
+	"code": "AAB",     // Mapsten Kontrol edildi
+	"lat": "-26.691196",
+	"lon": "141.04752",
+	"tz": "Australia/Brisbane"
+},
+{
+	"code": "AAD",   // Mapsten Kontrol Edildi
+	"lat": "8.979942",
+	"lon": "38.798919",
+	"tz": "Africa/Addis_Ababa"
+},{
+	"code": "ALQ",    // Checked  
+	"lat": "-29.812666",
+	"lon": "-55.893441",
+	"tz": "America/Sao_Paulo"
+},{
+	"code": "AMJ",   //Checked
+	"lat": "-16.167778",
+	"lon": "-40.66722107",
+	"tz": "America/Sao_Paulo"
+},{
+	"code": "ANA", 			//Location checked 
+	"lat": "-1.271599",
+	"lon": "34.959889",
+	"tz": "Africa/Nairobi"
+},{
+	"code": "AQM",       // mapsten kontrol edildi
+	"lat": "-9.885419",
+	"lon": "-63.048704",
+	"tz": "America/Porto_Velho"
+},{
+	"code": "AQY",     // Checked
+	"lat": "60.9677777778",
+	"lon": "-149.1205555556",
+	"tz": "America/Anchorage"
+},{
+	"code": "ASS",     // Location Checked
+	"lat": "-24.7441673",
+	"lon": "31.5224991",
+	"tz": "Africa/Mbabane"
+},{
+	"code": "AVR",    //Location Checked
+	"lat": "38.88527",
+	"lon": "-9.033106",
+	"tz": "Europe/Lisbon"
+},{
+	"code": "AXI", 		//Location Checked
+	"lat": "36.1275",
+	"lon": "-5.4538889",
+	"tz": "Europe/Madrid"
+},{
+	"code": "BBE", 		// Checked
+	"lat": "-27.3286",
+	"lon": "117.673",
+	"tz": "Australia/Perth",
+	"name":"Big Bell Airport"
+},{
+	"code": "BCC", //Location Checked
+	"lat": "63.571609",
+	"lon": "-156.144050",
+	"tz": "America/Anchorage"
+},{
+	"code": "BCR", 	//Location Checked 
+	"lat": "-8.834560",
+	"lon": "-67.312402",
+	"tz": "America/Sao_Paulo"
+},{
+	"code": "BJJ",  //Location Checked
+	"lat": "40.8748333",
+	"lon": "-81.8882500",
+	"tz": "America/New_York"
+},{
+	"code": "BMS", //Location Checked
+	"lat": "-14.2553997",
+	"lon": "-41.8175011",
+	"tz": "America/Bahia"
+},{
+	"code": "BPL",  //Location Checked
+	"lat": "44.895",
+	"lon": "82.2997222222",
+	"tz": "Asia/Kashgar"
+},{
+	"code": "BQC", 	//Location Checked
+	"lat": "46.782997",
+	"lon": "-71.286072",
+	"tz": "America/Quebec"      // --------------Time Zone  ? I'm not sure . ! 
+},{
+	"code": "BSW",  //
+	"lat": "60.4230642",
+	"lon": "-146.1459094",
+	"tz": "America/Anchorage"
+},{
+	"code": "BXW",
+	"lat": "-5.725",
+	"lon": "112.68",
+	"tz": "Asia/Jakarta"
+},{
+	"code": "BXY",
+	"lat": "45.6220016",
+	"lon": "63.2150002",
+	"tz": "Asia/Qyzylorda"
+},{
+	"code": "CCY",
+	"lat": "43.0725038",
+	"lon": "-92.6108092",
+	"tz": "America/Chicago"
+},{
+	"code": "CDE",
+	"lat": "23.297642",
+	"lon": "116.166004",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "CDM", 			// Not Found. - Otobüs terminali var , ancak KOD kısmına karşılık gelmiyor. ! 
+	"lat": "",
+	"lon": "",
+	"tz": "",
+	
+},{
+	"code": "CDT",			// Location checked
+	"lat": "",
+	"lon": "",
+	"tz": "Europe/Andorra"
+},{
+	"code": "CWJ",			// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Not Found !  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+	"lat": "",
+	"lon": "",
+	"tz": "" ,
+
+},{
+	"code": "CXE",  		//// Location Checked
+	"lat": "53.196687",
+	"lon": "-2.879056",
+	"tz": "Europe/London"
+},{
+	"code": "CXX",		// Location Checked
+	"lat": "54.890490",
+	"lon": "-2.933141",
+	"tz": "Europe/London"
+},{
+	"code": "CZB",  // Location Checked 
+	"lat": "-28.657191",
+	"lon": "-53.612005",
+	"tz": "America/Sao_Paulo"
+},{
+	"code": "CZO", // Location Checked
+	"lat": "62.562328",
+	"lon": "-144.672495",
+	"tz": "America/Anchorage"
+},{
+	"code": "CZP",		//Location Checked
+	"lat": "55.966258",
+	"lon": "-133.795397",
+	"tz": "America/Sitka"
+},{
+	"code": "DBC",			//Checked
+	"lat": "45.505013",
+	"lon": "123.01885",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "DCK",		//Checked
+	"lat": "66.9425614",
+	"lon": "-156.8913686",
+	"tz": "America/Nome"
+},{
+	"code": "DHU",			//Checked
+	"lat": "27.841124",
+	"lon": "113.153030",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "DQM",			//Checked
+	"lat": "19.500000",
+	"lon": "57.642778",
+	"tz": "Asia/Muscat"
+},{
+	"code": "DTB",		//Checked
+	"lat": "2.259722",
+	"lon": "98.99528",
+	"tz": "Asia/Jakarta"
+},{
+	"code": "DTU",		//Checked
+	"lat": "48.444",
+	"lon": "126.1232",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "DWO",   /// Latitude longitude Not found. 
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "EBH",   	//Checked
+	"lat": "33.7216667",
+	"lon": "1.0925",
+	"tz": "Africa/Algiers"
+},{
+	"code": "ECI",		//checked
+	"lat": "11.432159",
+	"lon": "-86.032036",
+	"tz": "Europe/Rome"
+},{
+	"code": "EEL",		//checked
+	"lat": "42.059253",
+	"lon": "-1.597821",
+	"tz": "Europe/Madrid"
+},{
+	"code": "EIK",		//checked
+	"lat": "46.681001",
+	"lon": "38.220894",
+	"tz": "Europe/Moscow"
+},{
+	"code": "EMG",		//Checked
+	"lat": "-28.716914",
+	"lon": "31.899875",
+	"tz": "Africa/Johannesburg"
+},{
+	"code": "EVI",		//Checked
+	"lat": "37.391629",
+	"lon": "-6.002708",
+	"tz": "Europe/Madrid"
+},{
+	"code": "EVO",		//Checked
+	"lat": "36.430048",
+	"lon": "-5.128706",
+	"tz": "Europe/Madrid"
+},{
+	"code": "EXA",		//checked
+	"lat": "38.914718",
+	"lon": "-6.357944",
+	"tz": "Europe/Madrid"
+},{
+	"code": "EXC",		///checked
+	"lat": "39.460146",
+	"lon": "-6.382448",
+	"tz": "Europe/Madrid"
+},{
+	"code": "EZF", 		//checked
+	"lat": "38.267885",
+	"lon": "-77.448120",
+	"tz": "America/Los_Angeles"
+},{
+	"code": "FEJ", //Checked
+	"lat": "-8.145370",
+	"lon": "-70.345189",
+	"tz": "America/Rio_Branco"
+},{
+	"code": "FIV", //Checked
+	"lat": "57.2699",
+	"lon": "-133.631",
+	"tz": "America/Juneau"
+},{
+	"code": "FQA",   /// not Found
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "FQB",	/// Nothing was found about it
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "FQA",	///  Nothing was found about it
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "FVM", 	///	Checked
+	"lat": "-0.310030",
+	"lon": "73.435403",
+	"tz": "Indian/Maldives"
+},{
+	"code": "FVR",	/// checked
+	"lat": "-15.164721",
+	"lon": "127.840000",
+	"tz": "Australia/Perth"
+},{
+	"code": "FWL",		// Checked
+	"lat": "62.509724",
+	"lon": "-153.88945",
+	"tz": "America/Anchorage"
+},{
+	"code": "FYN",		// checked
+	"lat": "46.80111",
+	"lon": "89.53833",
+	"tz": "Asia/Harbin"
+},{
+	"code": "GBA",		// Checked
+	"lat": "51.670241",
+	"lon": "-2.048284",
+	"tz": "Europe/London"
+},{
+	"code": "GBH",		// checked
+	"lat": "68.479537",
+	"lon": "-149.491200",
+	"tz": "America/Anchorage"
+},{
+	"code": "GDH",		// checked
+	"lat": "59.7469",
+	"lon": "-158.875",
+	"tz": " America/Anchorage"
+},{
+	"code": "GEC",		//Checked
+	"lat": "35.234872",
+	"lon": "33.731801",
+	"tz": "Asia/Nicosia"
+},{
+	"code": "GEM",		//Checked
+	"lat": "1.677257",
+	"lon": "11.024489",
+	"tz": "Africa/Malabo"
+},{
+	"code": "GMT",		//Checked
+	"lat": "65.402052",
+	"lon": "-161.281949",
+	"tz": "America/Anchorage"
+},{
+	"code": "GRE",		//Checked
+	"lat": "38.835087",
+	"lon": "-89.380193",
+	"tz": "America/New_York"
+},{
+	"code": "GUO",		// Checked
+	"lat": "5.317494",
+	"lon": "45.985202",
+	"tz": "Africa/Mogadishu"
+},{
+	"code": "HFH",		//Checked
+	"lat": "52.061173",
+	"lon": "-2.708387",
+	"tz": "Europe/London"
+},{
+	"code": "HXN",
+	"lat": "37.090237",
+	"lon": "114.591062",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "HZP",
+	"lat": "57.38167",
+	"lon": "-111.70111",
+	"tz": "Canada/Mountain"
+},{
+	"code": "IFU",
+	"lat": "5.708489",
+	"lon": "73.024903",
+	"tz": "Indian/Maldives"
+},{
+	"code": "IKU",
+	"lat": "42.585491",
+	"lon": "76.705373",
+	"tz": "Asia/Bishkek"
+},{
+	"code": "IPG",
+	"lat": "-4.191141",
+	"lon": "-69.941412",
+	"tz": "America/Manaus"
+},{
+	"code": "ISR",
+	"lat": "40.675092",
+	"lon": "14.772519",
+	"tz": "Europe/Rome"
+},{
+	"code": "IVH",
+	"lat": "69.403907",
+	"lon": "-148.277695",
+	"tz": "America/Anchorage"
+},{
+	"code": "JEA",
+	"lat": "37.779820",
+	"lon": "-3.790871",
+	"tz": "Europe/Madrid"
+},{
+	"code": "JEQ",
+	"lat": "-13.8776999",
+	"lon": "-40.0716019",
+	"tz": "America/Bahia"
+},{
+	"code": "JIA",
+	"lat": "-11.418348",
+	"lon": "-58.71014",
+	"tz": "America/Cuiaba"
+},{
+	"code": "JIO",
+	"lat": "-8.140848",
+	"lon": "127.909462",
+	"tz": "Asia/Jayapura"
+},{
+	"code": "JJD",
+	"lat": "-2.905482",
+	"lon": "-40.355418",
+	"tz": "America/Fortaleza"
+},{
+	"code": "JMJ",
+	"lat": "22.41572",
+	"lon": "99.78646",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "JSJ", 	/// not found   ------>>>>>>!!!!!!
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "KBE",
+	"lat": "55.9290781",
+	"lon": "-131.5716906",
+	"tz": "America/Juneau"
+},{
+	"code": "KCR",
+	"lat": "63.570855",
+	"lon": "-156.006467",
+	"tz": "America/Juneau"
+},{
+	"code": "KEU",
+	"lat": "-1.586207",
+	"lon": "35.259225",
+	"tz": "Africa/Nairobi"
+},{
+	"code": "KGZ",
+	"lat": "61.454639",
+	"lon": "-142.380648",
+	"tz": "America/Yakutat"
+},{
+	"code": "KHX",
+	"lat": "-0.719364",
+	"lon": "29.698286",
+	"tz": "Africa/Kampala"
+},{
+	"code": "KKF",		/////// Not found ------------->>>>>>>!!!!!!!
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "KKS",
+	"lat": "33.8953",
+	"lon": "51.577",
+	"tz": "Asia/Tehran"
+},{
+	"code": "KSR",
+	"lat": "-6.171943",
+	"lon": "120.435278",
+	"tz": "Asia/Makassar"
+},{
+	"code": "KTJ",
+	"lat": "-1.264138",
+	"lon": "35.022842",
+	"tz": "Africa/Kampala"
+},{
+	"code": "KXN",
+	"lat": "54.304961",
+	"lon": "-2.722085",
+	"tz": "Europe/London"
+},{
+	"code": "LFA",
+	"lat": "39.439070",
+	"lon": "116.309694",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "LFQ",
+	"lat": "36.043526",
+	"lon": "111.494934",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "LHB",
+	"lat": "54.2333333",
+	"lon": "-165.6",
+	"tz": "America/Nome"
+},{
+	"code": "LKV",
+	"lat": "39.227414",
+	"lon": "-106.316344",
+	"tz": "America/Denver"
+},{
+	"code": "LLB",
+	"lat": "25.443619",
+	"lon": "107.967377",
+	"tz": "Asia/Chongqing"
+},{
+	"code": "LNI",
+	"lat": "70.910677",
+	"lon": "-153.242450",
+	"tz": "America/Nome"
+},{
+	"code": "LXC",
+	"lat": "53.404638",
+	"lon": "-2.979997",
+	"tz": "Europe/London"
+},{
+	"code": "LXL",
+	"lat": "53.415361",
+	"lon": "-2.990322",
+	"tz": "Europe/London"
+},{
+	"code": "LZX",
+	"lat": "36.069197",
+	"lon": "103.769589",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "MDJ",
+	"lat": "44.663956",
+	"lon": "-121.149950",
+	"tz": "America/Boise"
+},{
+	"code": "MXD",
+	"lat": "-23.367204",
+	"lon": "139.650555",
+	"tz": "Australia/Brisbane"
+},{
+	"code": "NBN",
+	"lat": "-1.409926",
+	"lon": "5.622570",
+	"tz": "	Africa/Malabo"
+},{
+	"code": "NNE",
+	"lat": "43.190562",
+	"lon": "3.005553",
+	"tz": "Europe/Paris"
+},{
+	"code": "NOD",
+	"lat": "53.631758",
+	"lon": "7.192483",
+	"tz": "Europe/Berlin"
+},{
+	"code": "NWK",
+	"lat": "40.734306",
+	"lon": "-74.164152",
+	"tz": "America/New_York"
+},{
+	"code": "NYS",		/// NOT FOUND !!!!!!!!!	
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "NZL",	
+	"lat": "47.866",
+	"lon": "122.7647",
+	"tz": "Asia/Ulaanbaatar"
+},{
+	"code": "OAI",	
+	"lat": "34.945091",
+	"lon": "69.264018",
+	"tz": "Asia/Kabul"
+},{
+	"code": "OCM",	
+	"lat": "-22.540076",
+	"lon": "117.275809",
+	"tz": "Australia/Perth"
+},{
+	"code": "OLG",	
+	"lat": "36.691264",
+	"lon": "3.209515",
+	"tz": "Africa/Algiers"
+},{
+	"code": "OLL",	
+	"lat": "-1.219835",
+	"lon": "15.911923",
+	"tz": "Africa/Libreville"
+},{
+	"code": "OLX",	
+	"lat": "-1.408610",
+	"lon": "35.110000",
+	"tz": "Africa/Nairobi"
+},{
+	"code": "OSJ",	
+	"lat": "-1.378430",
+	"lon": "35.378520",
+	"tz": "Africa/Nairobi"
+},{
+	"code": "OSO",	
+	"lat": "-22.08573 ",
+	"lon": "140.56088",
+	"tz": "Australia/Brisbane"
+},{
+	"code": "PCI",	
+	"lat": "42.015714",
+	"lon": "4.534214",
+	"tz": "Europe/Madrid"
+},{
+	"code": "PCS",	
+	"lat": "-7.083333",
+	"lon": "-41.466667",
+	"tz": "America/Fortaleza"
+},{
+	"code": "PIV",	
+	"lat": "-17.3169",
+	"lon": "-44.8603",
+	"tz": "America/Sao_Paulo"
+},{
+	"code": "POK",	
+	"lat": "15.6247",
+	"lon": "48.208",
+	"tz": "Europe/Vienna"
+},{
+	"code": "PVI",	
+	"lat": "-23.091785",
+	"lon": "-52.489229",
+	"tz": "America/Sao_Paulo"
+},{
+	"code": "PXA",	
+	"lat": "-4.023557",
+	"lon": "103.381734",
+	"tz": "Asia/Jakarta"
+},{
+	"code": "PXB",	
+	"lat": "43.105614",
+	"lon": "12.387466",
+	"tz": "Europe/Rome"
+},{
+	"code": "PXC",	
+	"lat": "42.488497",
+	"lon": "14.183239",
+	"tz": "Europe/Rome"
+},{
+	"code": "PXG",	
+	"lat": "27.640883",
+	"lon": "113.849369",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "PYL",	
+	"lat": "60.6858",
+	"lon": "-147.917",
+	"tz": "America/Anchorage"
+},{
+	"code": "OAK",	
+	"lat": "-21.265101",
+	"lon": "-43.763459",
+	"tz": "America/Sao_Paulo"
+},{
+	"code": "OBX",	//offline point
+	"lat": "-3.688881",
+	"lon": "--40.349156",
+	"tz": "America/Fortaleza"
+},{
+	"code": "QIQ",	
+	"lat": "-23.008205",
+	"lon": "-47.137568",
+	"tz": "America/Sao_Paulo"	//offline point
+},{
+	"code": "QKY",			//offline point
+	"lat": "34.230511",
+	"lon": "135.170808",
+	"tz": "Asia/Tokyo"
+},{
+	"code": "QOI",	
+	"lat": "-0.569349",
+	"lon": "37.492180",
+	"tz": "Africa/Nairobi"
+},{
+	"code": "QUO",	
+	"lat": "4.8725",
+	"lon": "8.093",
+	"tz": "Africa/Malabo"
+},{
+	"code": "QUO",	
+	"lat": "39.460998",
+	"lon": "-6.385679",
+	"tz": "Europe/Madrid"
+},{
+	"code": "QVL",	
+	"lat": "46.617370",
+	"lon": "13.848746",
+	"tz": "Europe/Vienna"
+},{
+	"code": "RCC",	
+	"lat": "38.103540",
+	"lon": "15.636161",
+	"tz": "Europe/Rome"
+},{
+	"code": "RDB",	
+	"lat": "68.031722",
+	"lon": "-162.900009",
+	"tz": "US/Pacific"
+},{
+	"code": "RIZ",	
+	"lat": "22.636748",
+	"lon": "113.814005",
+	"tz": "Asia/Hong_Kong"
+},{
+	"code": "RNC",	
+	"lat": "35.698381",
+	"lon": "-85.844401",
+	"tz": "America/Chicago"
+},{
+	"code": "SBJ",	
+	"lat": "-18.722026",
+	"lon": "-39.836561",
+	"tz": "America/Sao_Paulo"
+},{
+	"code": "SBT",	
+	"lat": "71.218631",
+	"lon": "72.056377",
+	"tz": "Asia/Yekaterinburg"
+},{
+	"code": "SCP",	
+	"lat": "44.701238",
+	"lon": "6.599478",
+	"tz": "Europe/Paris"
+},{
+	"code": "SDS",	
+	"lat": "38.062207",
+	"lon": "138.408528",
+	"tz": "Asia/Tokyo "
+},{
+	"code": "SEJ",	 /// Not found
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "SGW",	
+	"lat": "43.4194699000",
+	"lon": "-83.9508068000",
+	"tz": " America/Juneau"
+},{
+	"code": "SQX",	
+	"lat": "-26.778256",
+	"lon": "-53.505597",
+	"tz": "America/Sao_Paulo"
+},{
+	"code": "SZE",	
+	"lat": "11.786901",
+	"lon": "40.992129",
+	"tz": "Africa/Addis_Ababa"
+},{
+	"code": "TAW",	
+	"lat": "-31.749434",
+	"lon": "-55.925745",
+	"tz": "America/Montevideo"
+},{
+	"code": "TFR",	
+	"lat": "30.3",
+	"lon": "31.75",
+	"tz": "Africa/Cairo"
+},{
+	"code": "TGQ",	
+	"lat": "-14.655988",
+	"lon": "-57.446158",
+	"tz": "America/Cuiaba"
+},{
+	"code": "THA",	
+	"lat": "35.377570",
+	"lon": "-86.255602",
+	"tz": "America/Chicago"
+},{
+	"code": "TIL",	
+	"lat": "51.057312",
+	"lon": "-113.622656",
+	"tz": "	America/Toronto"
+},{
+	"code": "TLZ",	
+	"lat": "-18.218139",
+	"lon": "-47.899059",
+	"tz": "America/Sao_Paulo"
+}
+
+		//////  All checked
+
+
+,{
+	"code": "TRQ",			// Not found !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "TXB",	
+	"lat": "45.657281",
+	"lon": "13.772056",
+	"tz": "Europe/Rome"
+},{
+	"code": "TXE",	
+	"lat": "4.721119",
+	"lon": "96.854417",
+	"tz": "Asia/Jakarta"
+},{
+	"code": "TXQ",	
+	"lat": "43.611194",
+	"lon": "1.453559",
+	"tz": "Europe/Paris"
+},{
+	"code": "UBW",	
+	"lat": "51.127702",
+	"lon": "-2.990421",
+	"tz": "Europe/London"
+},{
+	"code": "UFM",	
+	"lat": "50.148327",
+	"lon": "-5.064715",
+	"tz": "Europe/London"
+},{
+	"code": "UJU",	
+	"lat": "40.154167",
+	"lon": "124.531619",
+	"tz": "Asia/Pyongyang"
+},{
+	"code": "ULZ",	
+	"lat": "47.711068",
+	"lon": "96.526617",
+	"tz": "Asia/Hovd"
+},{
+	"code": "USX",	
+	"lat": "50.339491",
+	"lon": "-4.789385",
+	"tz": "Europe/London"
+},{
+	"code": "UWC",	
+	"lat": "52.195153",
+	"lon": "-2.221604",
+	"tz": "Europe/London"
+},{
+	"code": "VBM",	
+	"lat": "57.854226",
+	"lon": "-157.085958",
+	"tz": "America/Anchorage"
+},{
+	"code": "VPG",	
+	"lat": "-3.81362",
+	"lon": "39.796978",
+	"tz": "Africa/Nairobi"
+},{
+	"code": "WDS",	
+	"lat": "32.586937",
+	"lon": "110.910199",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "WGN",				// lat - long I m  nor sure !!!!!!
+	"lat": "-35.1667",
+	"lon": "173.967",
+	"tz": "Pacific/Auckland"
+},{
+	"code": "WLR",	
+	"lat": "46.950354",
+	"lon": "-67.885841",
+	"tz": "America/Juneau"
+},{
+	"code": "WPC",	
+	"lat": "49.520263",
+	"lon": "-113.997415",
+	"tz": "America/Edmonton"
+},{
+	"code": "WSF",	
+	"lat": "54.582986",
+	"lon": "-164.905302",
+	"tz": "America/Anchorage"
+},{
+	"code": "WUT",	
+	"lat": "38.597222",
+	"lon": "112.968056",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "WZE",	
+	"lat": "30.660249",
+	"lon": "111.364830",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "XFI",	
+	"lat": "48.142466",
+	"lon": "-64.987305",
+	"tz": "America/New_York"
+},{
+	"code": "XHB",	
+	"lat": "25.25611",
+	"lon": "55.29307",
+	"tz": "Asia/Dubai"
+},{
+	"code": "XIF",	
+	"lat": "44.253478",
+	"lon": "-76.954347",
+	"tz": "America/New_York"
+},{
+	"code": "XII",	
+	"lat": "44.711038",
+	"lon": "-75.524836",
+	"tz": "America/Toronto"
+},{
+	"code": "XJU",	
+	"lat": "42.354586",
+	"lon": "-3.668296",
+	"tz": "Europe/Madrid"
+},{
+	"code": "XRQ",	
+	"lat": "48.57615",
+	"lon": "116.93779",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "XTV",	
+	"lat": "34.5967",
+	"lon": "43.6769",
+	"tz": "Asia/Baghdad"
+},{
+	"code": "XUJ",	
+	"lat": "60.929810",
+	"lon": "10.698374",
+	"tz": "Europe/Oslo"
+},{
+	"code": "XXX",		///--------->>>>>>>>>>>>Not found !!!!!!!!!!!!!!!------------------->>>>>>>>>	
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "XZP",		// Off Line Point  !!!!!!!!!! Not Found !!!!!!!!!!!!!!!!!!!!!	
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "YFT",	
+	"lat": "22.162213",
+	"lon": "113.577526",
+	"tz": "Asia/Macau"
+},{
+	"code": "YGC",	
+	"lat": "53.916683",
+	"lon": "-118.874514",
+	"tz": "America/Edmonton"
+},{
+	"code": "YIU",	
+	"lat": "29.378731",
+	"lon": "120.042902",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "YJP",	
+	"lat": "53.321169",
+	"lon": "-117.753570",
+	"tz": "America/Edmonton"
+},{
+	"code": "YKH",	
+	"lat": "40.540005",
+	"lon": "122.35542",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "YLB",	
+	"lat": "54.769506",
+	"lon": "-112.030168",
+	"tz": "America/Edmonton"
+},{
+	"code": "YOE",	
+	"lat": "55.709709",
+	"lon": "-117.093210",
+	"tz": "America/Edmonton"
+},{
+	"code": "YSQ",	
+	"lat": "1.365937",
+	"lon": "103.988939",
+	"tz": "Asia/Singapore"
+},{
+	"code": "YTT",	
+	"lat": "52.837431",
+	"lon": "-104.067031",
+	"tz": "America/Regina"
+},{
+	"code": "YUG",	
+	"lat": "29.372318",
+	"lon": "113.123602",
+	"tz": "Asia/Shanghai"
+},{
+	"code": "YVN",	
+	"lat": "66.669998",
+	"lon": "61.390938",
+	"tz": "America/Toronto"
+},{
+	"code": "ZAY",	
+	"lat": "51.216961",
+	"lon": "4.421107",
+	"tz": "Europe/Brussels"
+},{
+	"code": "ZFW",	
+	"lat": "56.080834",
+	"lon": "-118.434598",
+	"tz": "America/Edmonton"
+},{
+	"code": "ZIA",	
+	"lat": "55.561890",
+	"lon": "38.118450",
+	"tz": "Europe/Moscow"
+},{
+	"code": "ZIM",			///////// Not found !!!!!!!!!!!!
+	"lat": "",
+	"lon": "",
+	"tz": ""
+},{
+	"code": "ZIR",	
+	"lat": "56.461847",
+	"lon": "10.021987",
+	"tz": "Europe/Copenhagen"
+},{
+	"code": "ZIS",	
+	"lat": "12.248611",
+	"lon": "31.771667",
+	"tz": "Africa/Tripoli"
+},{
+	"code": "ZJZ",	
+	"lat": "47.47856",
+	"lon": "9.49289",
+	"tz": "Europe/Zurich"
+},{
+	"code": "ZLI",	
+	"lat": "47.499992",
+	"lon": "8.723828",
+	"tz": "Europe/Zurich"
+},{
+	"code": "ZMD",	
+	"lat": "-9.06667",
+	"lon": "-68.6667",
+	"tz": "America/Rio_Branco"
+},{
+	"code": "ZOB",	
+	"lat": "41.515880",
+	"lon": "-5.739709",
+	"tz": "Europe/Madrid"
+},{
+	"code": "ZOO",	
+	"lat": "51.430999",
+	"lon": "6.886221",
+	"tz": "Europe/Berlin"
+},{
+	"code": "ZPP",	
+	"lat": "48.495799",
+	"lon": "9.209280",
+	"tz": "Europe/Berlin"
+},{
+	"code": "ZWY",				/////// Any Station Belgium   What is mean ?????? !!!!!!!!!!
+	"lat": "",
+	"lon": "",
+	"tz": ""
+}
+
+]
